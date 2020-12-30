@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-billionaire/static/css/main.541c4a68.chunk.css",
+    "main.js": "/react-billionaire/static/js/main.e8bff753.chunk.js",
+    "main.js.map": "/react-billionaire/static/js/main.e8bff753.chunk.js.map",
+    "runtime-main.js": "/react-billionaire/static/js/runtime-main.d3b0027b.js",
+    "runtime-main.js.map": "/react-billionaire/static/js/runtime-main.d3b0027b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/react-billionaire/static/css/2.31461e4f.chunk.css",
+    "static/js/2.12e0392c.chunk.js": "/react-billionaire/static/js/2.12e0392c.chunk.js",
+    "static/js/2.12e0392c.chunk.js.map": "/react-billionaire/static/js/2.12e0392c.chunk.js.map",
+    "static/js/3.b8e3933e.chunk.js": "/react-billionaire/static/js/3.b8e3933e.chunk.js",
+    "static/js/3.b8e3933e.chunk.js.map": "/react-billionaire/static/js/3.b8e3933e.chunk.js.map",
+    "index.html": "/react-billionaire/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/react-billionaire/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.541c4a68.chunk.css.map": "/react-billionaire/static/css/main.541c4a68.chunk.css.map",
+    "static/js/2.12e0392c.chunk.js.LICENSE.txt": "/react-billionaire/static/js/2.12e0392c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-billionaire/static/media/RockFont.1964c08c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b0027b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.12e0392c.chunk.js",
+    "static/css/main.541c4a68.chunk.css",
+    "static/js/main.e8bff753.chunk.js"
+  ]
+}
