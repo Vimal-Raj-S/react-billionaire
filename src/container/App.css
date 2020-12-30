@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'RockFont';
+  font-style: normal;
+  font-weight: normal;
+  src: local('RockFont'), url('RockFont.woff') format('woff');
+  }
+  h1 {
+    font-family: 'RockFont';
+    font-weight: 200;
+    color: #0ccac4;
+  }
